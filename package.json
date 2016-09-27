@@ -1,0 +1,20 @@
+{
+  "name": "jq-opentip",
+  "private": true,
+  "description": "jQuery Tooltip plugin that extends OpenTip.",
+  "repository": "https://github.com/Thann/jq-tooltip",
+  "version": "0.0.1",
+  "scripts": {},
+  "license": "MIT",
+  "dependencies": {
+    "imports-loader": "^0.6.5",
+    "jquery": "*",
+    "jquery-visible": "customd/jquery-visible",
+    "opentip": "thann/opentip"
+  },
+  "devDependencies": {
+    "css-loader": "^0.25.0",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.2"
+  }
+}
