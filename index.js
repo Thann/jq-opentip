@@ -2,7 +2,7 @@
 
 var jQuery = require('jquery');
 var Opentip = require('opentip');
-require('./node_modules/opentip/css/opentip.css');
+require('opentip/css/opentip.css');
 require('imports?jQuery=jquery!jquery-visible');
 
 var default_opts = {
